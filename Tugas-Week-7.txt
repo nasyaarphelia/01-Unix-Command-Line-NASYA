@@ -1,0 +1,14 @@
+# 01-Unix-Command-Line-NASYA
+
+1. mkdir Nasya && cd Nasya
+2. mkdir sekolah && mkdir kerja
+3. - cd sekolah 
+   - nano ijazah.txt 
+   - cat ijazah.txt
+   - nano portfolio.txt
+   - cat portfolio.txt
+4. cd ../
+5. - cd kerja 
+   - nano cv.txt
+   - cat cv.txt
+6. cd ../sekolah && mv portfolio.txt ../kerja 
